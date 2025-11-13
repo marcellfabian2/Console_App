@@ -1,2 +1,2 @@
 # Konzolos_alkalmaz-s
-Alapvető fájlkezelés (listázás és másolás), mappák létrehozása
+Alapvető fájlkezelés (listázás és másolás), mappák létrehozása.
