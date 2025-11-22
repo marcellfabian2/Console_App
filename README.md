@@ -1,33 +1,41 @@
 # Console_App
 Főbb funkciók
 
-📁 Fájlrendszer böngészés
--mappák listázása (sárga színnel)
--fájlok listázása (piros színnel) különböző mértékegységekben:
-  -->Bájt (B)
-  -->Kilobájt (KB)
-  -->Megabájt (MB)
-  -->Gigabájt (GB)
-  
-🔄 Navigáció
--belépés mappákba, nevük megadásával
--visszalépés a szülőmappába (q paranccsal)
--útvonal ellenőrzés - hibakezelés érvénytelen útvonalak esetén
+Fájlrendszer böngészés
 
-📊 Rendezési lehetőségek
--fájlok rendezése (rf paranccsal):
-  -->Név szerint
-  -->Méret szerint
-  -->Módosítás dátuma szerint
-  -->Kiterjesztés szerint
+Mappák listázása (sárga színnel)
 
--mappák rendezése (rd paranccsal):
-  -->Név szerinti ABC sorrend
+Fájlok listázása (piros színnel) különböző mértékegységekben:
+→ Bájt (B)
+→ Kilobájt (KB)
+→ Megabájt (MB)
+→ Gigabájt (GB)
 
-📋 Fájl másolás (m paranccsal)
--célmappa megadása az asztalon
--speciális szűrési lehetőségek:
-  -->Kiterjesztés szerinti szűrés
-  -->Méret alapján szűrés (minimális/maximális)
-  -->Rendezés a másolás előtt
-  -->Automatikus mappa létrehozás
+Navigáció
+
+Belépés mappákba, nevük megadásával
+
+Visszalépés a szülőmappába (q paranccsal)
+
+Útvonal ellenőrzés - hibakezelés érvénytelen útvonalak esetén
+
+Rendezési lehetőségek
+
+Fájlok rendezése (rf paranccsal):
+→ Név szerint
+→ Méret szerint
+→ Módosítás dátuma szerint
+→ Kiterjesztés szerint
+
+Mappák rendezése (rd paranccsal):
+→ Név szerinti ABC sorrend
+
+Fájl másolás (m paranccsal)
+
+Célmappa megadása az asztalon
+
+Speciális szűrési lehetőségek:
+→ Kiterjesztés szerinti szűrés
+→ Méret alapján szűrés (minimális/maximális)
+→ Rendezés a másolás előtt
+→ Automatikus mappa létrehozás
