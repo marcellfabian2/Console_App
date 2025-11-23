@@ -1,0 +1,15 @@
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\App\bin\Debug\App.exe.config
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\App\bin\Debug\App.exe
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\App\bin\Debug\App.pdb
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.exe
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.pdb
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\App\bin\Debug\App.exe.config
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\App\bin\Debug\App.exe
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\App\bin\Debug\App.pdb
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.exe.config
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.exe
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\App\obj\Debug\App.pdb
